@@ -1,7 +1,8 @@
+import { Agenda } from "@/projects/agenda";
 import React from "react";
 
 const page = () => {
-  return <div>page</div>;
+  return <Agenda />;
 };
 
 export default page;
